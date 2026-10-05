@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently use **.NET & Vue.js**
 
-- 📫 How to reach me **sabirsm@code.edu.az**
+- 📫 How to reach me **sabirmextiev05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
